@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# H personal files
+.explications_Gaganjot.txt
+.premiers_pas_github.txt
+
 # C extensions
 *.so
 
